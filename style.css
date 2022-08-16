@@ -31,6 +31,7 @@ a:hover{
 }
 
 .specialdiv {
+    margin-top: -25px;
 	perspective: 500px;	
 	display: flex;
 	justify-content: center;
