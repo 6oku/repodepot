@@ -26,9 +26,10 @@ a:hover{
 }
 
 .bg{
-	background-color: #00000015;
+	background-color: #00000000;
 }
-div {
+
+.specialdiv {
 	perspective: 500px;	
 	display: flex;
 	justify-content: center;
